@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zain Premium Collection</title>
+</head>
+<body>
+<h1>Zain Premium Collection</h1>
+<p>Welcome to my website.</p>
+</body>
+</html>
